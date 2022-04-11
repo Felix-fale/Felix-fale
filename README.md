@@ -4,7 +4,7 @@
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-</div>
+
 
 <div id="badges">
   <a href="your-linkedin-URL">
@@ -36,3 +36,5 @@
 - :zap: .
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://github.com/Felix-fale)
+  
+  </div>
