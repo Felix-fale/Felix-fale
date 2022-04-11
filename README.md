@@ -27,4 +27,12 @@
 
 ---
 
-### :man_technologist: About Me :
+### :man_technologist: About Me : Je m'appelle Yawo Félix N'TOUGAN, apprenant chez ENERGY GENERATION. D'ici quelques mois mon objectif est de devenir Deloppeur Full stack. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
+- :telescope: .
+
+- :seedling: .
+
+- :zap: .
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://github.com/Felix-fale)
