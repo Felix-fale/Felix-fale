@@ -16,7 +16,7 @@
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Felix-fale&style=flat-square&color=blue" alt=""/>
+<!--   <img src="https://komarev.com/ghpvc/?username=Felix-fale&style=flat-square&color=blue" alt=""/> -->
 
 </div>
 
@@ -27,7 +27,7 @@
 
 ---
 
-### :man_technologist: Félix N'TOUGAN, apprenant chez ENERGY GENERATION. D'ici quelques mois mon objectif est de devenir Deloppeur Full stack. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+### :man_technologist: Félix N'TOUGAN, Je suis en formation professionnelle à ENERGY GENERATION. D'ici quelques mois mon objectif est de devenir Deloppeur Full stack. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - :telescope: .
 
