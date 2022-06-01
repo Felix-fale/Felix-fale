@@ -1,9 +1,9 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="100"/>
+<!--   <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="100"/>
   <h1>
   HI
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
+  </h1> -->
 
 
 <div id="badges">
@@ -21,13 +21,13 @@
 </div>
 
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+</div> -->
 
 ---
 
-### :man_technologist: About Me : Je m'appelle Yawo Félix N'TOUGAN, apprenant chez ENERGY GENERATION. D'ici quelques mois mon objectif est de devenir Deloppeur Full stack. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+### :man_technologist:À propos de moi : Je m'appelle Yawo Félix N'TOUGAN, apprenant chez ENERGY GENERATION. D'ici quelques mois mon objectif est de devenir Deloppeur Full stack. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - :telescope: .
 
