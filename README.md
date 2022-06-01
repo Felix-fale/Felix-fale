@@ -26,8 +26,10 @@
 </div> -->
 
 ---
+<!--   ### :man_technologist: -->
 
-### :man_technologist: Félix N'TOUGAN, Je suis en formation professionnelle à ENERGY GENERATION. D'ici quelques mois mon objectif est de devenir Deloppeur Full stack. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+  Félix N'TOUGAN, Je suis en formation professionnelle à ENERGY GENERATION. D'ici quelques mois mon objectif est de devenir Deloppeur Full stack.
+<!--   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> -->
 
 - :telescope: .
 
