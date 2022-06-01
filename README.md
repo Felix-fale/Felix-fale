@@ -27,7 +27,7 @@
 
 ---
 
-### :man_technologist:À propos de moi : Je m'appelle Yawo Félix N'TOUGAN, apprenant chez ENERGY GENERATION. D'ici quelques mois mon objectif est de devenir Deloppeur Full stack. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+### :man_technologist: Félix N'TOUGAN, apprenant chez ENERGY GENERATION. D'ici quelques mois mon objectif est de devenir Deloppeur Full stack. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - :telescope: .
 
